@@ -48,7 +48,7 @@ Output File Generated :  Concordance_sample.txt
 2) ./concordance_test
 
 Console Output :
-Run Concordance Test
+ Run Concordance Test
  Read input file : input.txt
  Read File contents OK!
  Generating concordance
