@@ -5,6 +5,14 @@ word occurrences, labeled with word frequencies
 # Bonus
 label each word with the sentence numbers in which each occurrence appeared.
 
+## Sample Output 
+```
+         a      {2:1,1}
+       all      {1:1}
+alphabetical    {1:1}
+        an      {2:1,1}
+
+```
 ## Libraries used
 - N/A
 
@@ -25,7 +33,7 @@ Command to execute
 E.g. : 
 1) ./concordance_test sample.txt
 
-Result Output : 
+Console Output : 
  Run Concordance Test
  Read input file : sample.txt
  Read File contents OK!
@@ -39,6 +47,7 @@ Output File Generated :  Concordance_sample.txt
 
 2) ./concordance_test
 
+Console Output :
 Run Concordance Test
  Read input file : input.txt
  Read File contents OK!
@@ -46,6 +55,7 @@ Run Concordance Test
  Finished Concordance generation
  Success! Concordance results written to Concordance_input.txt
  Exiting Concordance Test
+ 
 
 
 ```
